@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">deneme</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">aysin@gmail.com</string>
+    <string name="test_password">123456</string>
+    <string name="firebase_path">location</string>
+</resources>
